@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -60,4 +61,23 @@
   font-display: swap;
 }
 
+/* CSS varible */
+:root {
+  --width: 1200px;
+}
 
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+.to-uppercase {
+  text-transform: uppercase;
+}
